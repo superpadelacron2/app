@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SuperSaaS Voice Booking Assistant",
+  "description": "Un assistente vocale alimentato da Gemini Live per controllare la disponibilità di campi su SuperSaaS usando il linguaggio naturale.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
